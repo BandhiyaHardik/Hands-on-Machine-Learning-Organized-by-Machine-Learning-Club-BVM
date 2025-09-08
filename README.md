@@ -12,9 +12,9 @@ Welcome to the official repository of the **Hands-On Machine Learning Camp**! �
 This repository will be used for:  
 - 📂 Sharing weekly learning materials & assignments  
 - ✍️ Student assignment submissions  
-- 🏅 Tracking eligibility for certification  
 
-Our goal is to make machine learning **fun, practical, and peer-driven** — you’ll learn by building and applying concepts directly.
+
+Our goal is to make machine learning **fun, practical, and peer-driven** you’ll learn by building and applying concepts directly.
 
 ---
 
@@ -34,14 +34,15 @@ Our goal is to make machine learning **fun, practical, and peer-driven** — you
 ## 🛠 Tools & Platforms
 We’ll be using the following tools throughout the camp:  
 
-- [Google Colab](https://colab.research.google.com/)  
-- Python 🐍  
+- [Google Colab](https://colab.research.google.com/)
+- [Kaggle](https://www.kaggle.com/)
+- Python 🐍
 - Libraries:  
   - **Numpy**  
   - **Pandas**  
   - **Scikit-learn**  
   - **Matplotlib**  
-  - **Seaborn**  
+  - **Seaborn** 
 
 ---
 
