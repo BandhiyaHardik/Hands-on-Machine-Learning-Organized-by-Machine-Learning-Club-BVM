@@ -45,27 +45,6 @@ We’ll be using the following tools throughout the camp:
 
 ---
 
-## 📝 Submission Guidelines
-To be eligible for a certificate, assignments must be submitted every week.  
-
-1. **Fork** this repository 🍴  
-2. Add your assignment files in the respective week’s section (instructions will be shared weekly).  
-3. File format should be:  
-   - `assignment-week#.ipynb` (preferred)  
-   - or `.py` file if you’re not using notebooks  
-4. Submit your work via a **Pull Request (PR)** ✅  
-
-⚠️ **Note:** Assignments must be submitted **before the next session** to remain certificate-eligible.  
-
----
-
-## 🏅 Certification
-- Certificates will be distributed **in person** after successful completion  
-- Submitting all weekly assignments is **mandatory**  
-- 🎟 Seats are limited — consistency matters!  
-
----
-
 ## 🤝 Contribution
 This repository is maintained for **student learning purposes**.  
 If you spot errors, want to enhance materials, or share resources:  
